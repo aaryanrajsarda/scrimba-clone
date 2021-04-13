@@ -15,3 +15,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.see-all {
+  padding: 0.25rem 1rem;
+  font-size: 18px;
+  color: #2d3748;
+  border-radius: 9999px;
+  background-color: #ffffff;
+  transition: all 0.1s ease-out;
+}
+
+.see-all:hover {
+  --t_x: 0;
+  --t_z: 0;
+  --t_scale: 1;
+  --t_scale-x: 1;
+  --t_scale-y: 1;
+  --t_skew-x: 0;
+  --t_skew-y: 0;
+  transform: translate3d(var(--t_x), var(--t_y), var(--t_z))
+    scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+  box-shadow: 0px 2px 40px 0px rgb(0 0 0 / 30%);
+  --t_y: -3px;
+}
+
+.tagline {
+  font-weight: 400;
+  color: hsl(250, 18%, 19%);
+  font-size: 20px;
+  line-height: 28px;
+}
