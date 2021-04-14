@@ -1,5 +1,12 @@
 .navigate {
   opacity: 1;
+}
+
+.scrollVisible {
+  background-color: white;
+  transition: all 200ms ease-in;
+  opacity: 0.9;
+  box-shadow: 0px 0px 10px hsl(0deg 0% 0% / 10%);
   z-index: 800;
 }
 
