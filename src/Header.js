@@ -14,13 +14,13 @@ function Header() {
               Go Pro!
             </button>
           </div>
-          <div>
+          <div className="item">
             <h5 class="nav-item px-2">All Courses</h5>
           </div>
-          <div>
+          <div className="item">
             <h5 class="nav-item px-2">Sign In</h5>
           </div>
-          <div className="d-none d-md-block">
+          <div className="item d-none d-md-block">
             <h5 class="nav-item px-2">Sign Up</h5>
           </div>
         </div>
