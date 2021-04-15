@@ -21,7 +21,7 @@ function JavaScript() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              JavaScript is the worlds most popular programming language
             </h3>
             <button
               type="button"
