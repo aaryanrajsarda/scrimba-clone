@@ -1,0 +1,43 @@
+.h1-title {
+  display: block;
+  text-shadow: 4px 4px 0 #fff;
+  color: hsl(250, 18%, 19%);
+  font-size: 5rem;
+  margin: 0.5rem;
+  font-weight: 600;
+  z-index: 4;
+}
+
+.h3-title {
+  display: block;
+  color: hsl(250, 18%, 19%);
+  font-weight: 100;
+  margin: 1rem 0rem;
+  font-size: 2rem;
+}
+
+.try-now {
+  background-color: #5035ff;
+  color: white;
+  float: right;
+  margin: 1rem 0.5rem;
+  font-size: large;
+  font-weight: bold;
+  padding: 1rem 1.5rem;
+  transition: all 0.1s ease-out;
+}
+
+.try-now:hover {
+  --t_x: 0;
+  --t_z: 0;
+  --t_scale: 1;
+  --t_scale-x: 1;
+  --t_scale-y: 1;
+  --t_skew-x: 0;
+  --t_skew-y: 0;
+  transform: translate3d(var(--t_x), var(--t_y), var(--t_z))
+    scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+  box-shadow: 0px 2px 40px 0px rgb(0 0 0 / 30%);
+  --t_y: -3px;
+  color: white;
+}
