@@ -3,7 +3,7 @@ import React from "react";
 function AboutUs() {
   return (
     <div className="container-fluid" style={{ backgroundColor: "#F9F2EC" }}>
-      <div className="row" style={{ padding: "5rem 8rem 3rem 8rem" }}>
+      <div className="row" style={{ padding: "5rem 10rem 3rem 10rem" }}>
         <img
           className="img-fluid"
           src="shape-baby.svg"
@@ -19,7 +19,7 @@ function AboutUs() {
             src="about-video-cover.webp"
             className="img-fluid"
             style={{
-              border: "6px solid white",
+              border: "4px solid white",
               borderRadius: "10px",
             }}
           />
