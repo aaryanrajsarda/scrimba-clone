@@ -21,7 +21,8 @@ function ReactSection() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              React is the worlds most popular library for building user
+              interfaces
             </h3>
             <button
               type="button"

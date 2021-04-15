@@ -21,7 +21,7 @@ function ComputerScience() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              Some courses to level up your computer science skills
             </h3>
             <button
               type="button"

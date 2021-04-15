@@ -21,7 +21,8 @@ function Vue() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              Vue is an approachable, versatile and performant JavaScript
+              framework
             </h3>
             <button
               type="button"

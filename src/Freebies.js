@@ -21,7 +21,7 @@ function Freebies() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              High-quality Scrimba courses that don't cost a dime
             </h3>
             <button
               type="button"

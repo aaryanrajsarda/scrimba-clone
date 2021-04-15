@@ -19,10 +19,7 @@ function Bootcamps() {
                 <strong>Bootcamps</strong>
               </u>
             </h2>
-
-            <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
-            </h3>
+            <h3 className="tagline">Comprehensive courses on various topics</h3>
             <button
               type="button"
               class="see-all"

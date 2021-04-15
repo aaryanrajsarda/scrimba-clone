@@ -21,7 +21,7 @@ function NewToCoding() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              Check out our courses to start you on your journey.
             </h3>
             <button
               type="button"
