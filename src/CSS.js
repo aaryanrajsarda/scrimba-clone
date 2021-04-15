@@ -21,7 +21,7 @@ function CSS() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              CSS is a style sheet language for designing websites
             </h3>
             <button
               type="button"
