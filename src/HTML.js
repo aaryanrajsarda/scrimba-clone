@@ -21,7 +21,7 @@ function HTML() {
             </h2>
 
             <h3 className="tagline">
-              Courses to teach you how to build apps in the browser
+              HTML is how you organise content on a website
             </h3>
             <button
               type="button"
