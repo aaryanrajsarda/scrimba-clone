@@ -6,6 +6,7 @@ import PopularCourses from "./PopularCourses";
 import MainJumbotron from "./MainJumbotron";
 import Discord from "./Discord";
 import AboutUs from "./AboutUs";
+import Founders from "./Founders";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Frontend />
       <Discord />
       <AboutUs />
+      <Founders />
       <Footer />
     </div>
   );

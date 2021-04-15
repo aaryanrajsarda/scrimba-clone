@@ -1,0 +1,13 @@
+button:hover {
+  --t_x: 0;
+  --t_z: 0;
+  --t_scale: 1;
+  --t_scale-x: 1;
+  --t_scale-y: 1;
+  --t_skew-x: 0;
+  --t_skew-y: 0;
+  transform: translate3d(var(--t_x), var(--t_y), var(--t_z))
+    scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+  box-shadow: 0px 2px 40px 0px rgb(0 0 0 / 30%);
+  --t_y: -3px;
+}
