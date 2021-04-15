@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Frontend from "./Frontend";
 import PopularCourses from "./PopularCourses";
 import MainJumbotron from "./MainJumbotron";
+import Discord from "./Discord";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <MainJumbotron />
       <PopularCourses />
       <Frontend />
+      <Discord />
       <Footer />
     </div>
   );
