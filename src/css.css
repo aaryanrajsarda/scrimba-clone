@@ -1,0 +1,49 @@
+.css-card2-shape1 {
+  position: absolute;
+  width: 32%;
+  left: 33%;
+  top: 49%;
+  transform: translate3d(-50%, -50%, 32px) rotate(0deg) scale(var(--hs))
+    scaleY(0.61);
+  opacity: 0.39;
+}
+
+.css-card2-shape2 {
+  position: absolute;
+  width: 38%;
+  left: 98%;
+  top: 68%;
+  transform: translate3d(-50%, -50%, 38px) rotate(0deg) scale(var(--hs))
+    scaleY(0.81);
+  opacity: 0.35;
+}
+
+.css-card2-shape3 {
+  position: absolute;
+  width: 48%;
+  left: 66%;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 48px) rotate(0deg) scale(var(--hs))
+    scaleY(0.64);
+  opacity: 0.5;
+}
+
+.css-card4-shape1 {
+  position: absolute;
+  width: 50%;
+  left: 56%;
+  top: 56%;
+  transform: translate3d(-50%, -50%, 50px) rotate(0deg) scale(var(--hs))
+    scaleY(1.03);
+  opacity: 0.4;
+}
+
+.css-card4-shape2 {
+  position: absolute;
+  width: 42%;
+  left: 48%;
+  top: 55%;
+  transform: translate3d(-50%, -50%, 42px) rotate(-111deg) scale(var(--hs))
+    scaleY(0.95);
+  opacity: 0.3;
+}
