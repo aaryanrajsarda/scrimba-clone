@@ -1,0 +1,29 @@
+.react-card4-shape1 {
+  position: absolute;
+  width: 30%;
+  left: 42%;
+  top: 64%;
+  transform: translate3d(-50%, -50%, 30px) rotate(29deg) scale(var(--hs))
+    scaleY(1.3);
+  opacity: 0.2;
+}
+
+.react-card4-shape2 {
+  position: absolute;
+  width: 42%;
+  left: 77%;
+  top: 51%;
+  transform: translate3d(-50%, -50%, 42px) rotate(42deg) scale(var(--hs))
+    scaleY(1.06);
+  opacity: 0.25;
+}
+
+.react-card4-shape3 {
+  position: absolute;
+  width: 30%;
+  left: 17%;
+  top: 75%;
+  transform: translate3d(-50%, -50%, 30px) rotate(0deg) scale(var(--hs))
+    scaleY(0.84);
+  opacity: 0.2;
+}
