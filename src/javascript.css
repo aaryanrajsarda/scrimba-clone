@@ -1,0 +1,59 @@
+.javascript-card2-shape1 {
+  position: absolute;
+  width: 26%;
+  left: 11%;
+  top: 72%;
+  transform: translate3d(-50%, -50%, 26px) rotate(0deg) scale(var(--hs))
+    scaleY(1.05);
+  opacity: 1.03;
+}
+
+.javascript-card2-shape2 {
+  position: absolute;
+  width: 31%;
+  left: 29%;
+  top: 44%;
+  transform: translate3d(-50%, -50%, 31px) rotate(0deg) scale(var(--hs))
+    scaleY(0.9);
+  opacity: 0.55;
+}
+
+.javascript-card2-shape3 {
+  position: absolute;
+  width: 30%;
+  left: 52%;
+  top: 18%;
+  transform: translate3d(-50%, -50%, 30px) rotate(0deg) scale(var(--hs))
+    scaleY(0.88);
+  opacity: 0.73;
+}
+
+.javascript-card2-shape4 {
+  position: absolute;
+  width: 25%;
+  left: 73%;
+  top: 32%;
+  transform: translate3d(-50%, -50%, 25px) rotate(0deg) scale(var(--hs))
+    scaleY(0.91);
+  opacity: 0.4;
+}
+
+.javascript-card4-shape1 {
+  position: absolute;
+  width: 80%;
+  left: 104%;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 80px) rotate(-179deg) scale(var(--hs))
+    scaleY(0.4);
+  opacity: 0.25;
+}
+
+.javascript-card4-shape2 {
+  position: absolute;
+  width: 20%;
+  left: 48%;
+  top: 48%;
+  transform: translate3d(-50%, -50%, 20px) rotate(-185deg) scale(var(--hs))
+    scaleY(0.86);
+  opacity: 0.3;
+}
