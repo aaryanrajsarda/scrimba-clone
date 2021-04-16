@@ -1,0 +1,29 @@
+.html-card3-shape1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40%;
+  left: 46%;
+  top: 46%;
+  transform: translate3d(-50%, -50%, 40px) rotate(0deg) scaleY(0.77);
+  opacity: 0.25;
+}
+
+.html-card3-shape4 {
+  position: absolute;
+  width: 22%;
+  left: 48%;
+  top: 46%;
+  transform: translate3d(-50%, -50%, 22px) rotate(0deg) scaleY(1.04);
+  opacity: 0.25;
+}
+
+.html-card3-shape6 {
+  position: absolute;
+  width: 52%;
+  left: 49%;
+  top: 48%;
+  transform: translate3d(-50%, -50%, 52px) rotate(0deg) scale(var(--hs))
+    scaleY(0.86);
+  opacity: 0.25;
+}
