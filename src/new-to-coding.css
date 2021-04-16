@@ -1,0 +1,89 @@
+.new-to-coding-card2-shape1 {
+  position: absolute;
+  width: 48%;
+  left: 0;
+  top: 0;
+  transform: translate3d(-50%, -50%, 48px) rotate(0deg) scale(var(--hs))
+    scaleY(0.76);
+  opacity: 0.8;
+}
+
+.new-to-coding-card2-shape2 {
+  position: absolute;
+  width: 32%;
+  left: 0;
+  top: 0;
+  transform: translate3d(-50%, -50%, 32px) rotate(-119deg) scale(var(--hs))
+    scaleY(0.93);
+  opacity: 0.55;
+}
+
+.new-to-coding-card3-shape1 {
+  position: absolute;
+  width: 48%;
+  left: 0;
+  top: 0;
+  transform: translate3d(-50%, -50%, 48px) rotate(0deg) scale(var(--hs))
+    scaleY(0.64);
+  opacity: 0.5;
+}
+
+.new-to-coding-card3-shape2 {
+  position: absolute;
+  width: 30%;
+  left: 0;
+  top: 0;
+  transform: translate3d(-50%, -50%, 30px) rotate(0deg) scale(var(--hs))
+    scaleY(0.84);
+  opacity: 0.4;
+}
+
+.new-to-coding-card3-shape3 {
+  position: absolute;
+  width: 66%;
+  left: 0;
+  top: 0;
+  transform: translate3d(-50%, -50%, 66px) rotate(15deg) scale(var(--hs))
+    scaleY(0.76);
+  opacity: 0.85;
+}
+
+.new-to-coding-card4-shape1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 32%;
+  transform: translate3d(-50%, -50%, 32px) rotate(0deg) scale(var(--hs))
+    scaleY(0.61);
+  opacity: 0.2;
+}
+
+.new-to-coding-card4-shape2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 32%;
+  transform: translate3d(-50%, -50%, 32px) rotate(0deg) scale(var(--hs))
+    scaleY(0.96);
+  opacity: 0.25;
+}
+
+.new-to-coding-card4-shape3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18%;
+  transform: translate3d(-50%, -50%, 18px) rotate(0deg) scale(var(--hs))
+    scaleY(0.84);
+  opacity: 0.2;
+}
+
+.new-to-coding-card4-shape4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18%;
+  transform: translate3d(-50%, -50%, 18px) rotate(0deg) scale(var(--hs))
+    scaleY(0.84);
+  opacity: 0.2;
+}
