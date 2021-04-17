@@ -9,7 +9,7 @@ function Bootcamps() {
         backgroundColor: "#FFFBD4",
       }}
     >
-      <div className="row" style={{ padding: "3rem 9rem 2rem 9rem" }}>
+      <div className="row" style={{ padding: "5% 10%" }}>
         <div className="col-12 pb-3">
           <h2>
             <u>
@@ -29,6 +29,7 @@ function Bootcamps() {
                 placeItems: "center",
                 position: "relative",
                 height: "60%",
+                width: "100%",
               }}
             >
               <div className="shapes">

@@ -9,7 +9,7 @@ function NewToCoding() {
         backgroundColor: "#FFFFFF",
       }}
     >
-      <div className="row" style={{ padding: "3rem 9rem 2rem 9rem" }}>
+      <div className="row" style={{ padding: "5% 10%" }}>
         <div className="col-12 pb-3">
           <h2>
             <u>
