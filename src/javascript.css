@@ -41,7 +41,7 @@
 .javascript-card4-shape1 {
   position: absolute;
   width: 80%;
-  left: 104%;
+  left: 68%;
   top: 50%;
   transform: translate3d(-50%, -50%, 80px) rotate(-179deg) scale(var(--hs))
     scaleY(0.4);
