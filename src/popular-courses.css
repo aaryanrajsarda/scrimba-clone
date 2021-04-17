@@ -1,8 +1,8 @@
 .popular-card3-shape1 {
   position: absolute;
   width: 48%;
-  left: 0;
-  top: 0;
+  left: 50;
+  top: 50%;
   transform: translate3d(-50%, -50%, 48px) rotate(0deg) scaleY(0.64);
   opacity: 0.25;
 }
