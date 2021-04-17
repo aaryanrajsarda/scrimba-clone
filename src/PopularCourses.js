@@ -160,7 +160,7 @@ function PopularCourses() {
                   ></path>
                 </svg>
                 <svg
-                  class="bootcamp-card2-shape3 img-fluid"
+                  class="bootcamp-card2-shape4 img-fluid"
                   width="100"
                   viewBox="0 0 100 100"
                   preserveAspectRatio="none"
