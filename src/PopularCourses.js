@@ -248,7 +248,7 @@ function PopularCourses() {
                 </svg>
               </div>
               <h2 className="text-right course-name">
-                Build an Instagram Clone
+                Build an Instagram Clone in React
               </h2>
             </div>
             <div className="card-body p-2">
