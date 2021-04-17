@@ -1,8 +1,8 @@
 .freebies-card2-shape1 {
   position: absolute;
   width: 12%;
-  left: 49%;
-  top: 45%;
+  left: 70%;
+  top: 30%;
   transform: translate3d(-50%, -50%, 12px) rotate(-129deg) scale(var(--hs))
     scaleY(1.05);
   opacity: 0.2;
@@ -11,8 +11,8 @@
 .freebies-card2-shape2 {
   position: absolute;
   width: 50%;
-  left: 49%;
-  top: 46%;
+  left: 20%;
+  top: 30%;
   transform: translate3d(-50%, -50%, 50px) rotate(-21deg) scale(var(--hs))
     scaleY(1.05);
   opacity: 0.25;
@@ -21,8 +21,8 @@
 .freebies-card2-shape3 {
   position: absolute;
   width: 30%;
-  left: 48%;
-  top: 49%;
+  left: 0%;
+  top: 0%;
   transform: translate3d(-50%, -50%, 30px) rotate(0deg) scale(var(--hs))
     scaleY(0.84);
   opacity: 0.35;
