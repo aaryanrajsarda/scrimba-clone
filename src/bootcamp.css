@@ -1,8 +1,8 @@
 .bootcamp-card1-shape1 {
   position: absolute;
-  top: 0;
+  top: 50%;
   width: 40%;
-  left: 0;
+  left: 30%;
   transform: translate3d(-50%, -50%, 40px) rotate(-17deg) scaleY(0.89);
   opacity: 0.25;
   transition: none 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
@@ -13,8 +13,8 @@
 .bootcamp-card1-shape2 {
   position: absolute;
   width: 56%;
-  top: 0;
-  left: 0;
+  top: 50%;
+  left: 70%;
   transform: translate3d(-50%, -50%, 56px) rotate(-151deg) scaleY(0.76);
   opacity: 0.4;
   transition: none 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
