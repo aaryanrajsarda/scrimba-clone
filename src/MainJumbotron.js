@@ -79,7 +79,7 @@ function MainJumbotron() {
           <div className="col-3">
             <img
               src="peep-guy-macbook.svg"
-              className="d-none d-lg-block"
+              className="d-none d-lg-block img-fluid"
               style={{ transform: "scaleX(-1)" }}
             />
           </div>
