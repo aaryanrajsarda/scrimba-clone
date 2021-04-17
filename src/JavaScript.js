@@ -20,7 +20,7 @@ function JavaScript() {
             JavaScript is the worlds most popular programming language
           </h3>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -109,7 +109,7 @@ function JavaScript() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -222,7 +222,7 @@ function JavaScript() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -323,7 +323,7 @@ function JavaScript() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{

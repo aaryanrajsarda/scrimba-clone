@@ -20,7 +20,7 @@ function Freebies() {
             High-quality Scrimba courses that don't cost a dime
           </h3>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -109,7 +109,7 @@ function Freebies() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -208,7 +208,7 @@ function Freebies() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -309,7 +309,7 @@ function Freebies() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{

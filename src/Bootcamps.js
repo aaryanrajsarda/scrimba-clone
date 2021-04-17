@@ -18,7 +18,7 @@ function Bootcamps() {
           </h2>
           <h3 className="tagline">Comprehensive courses on various topics</h3>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -108,7 +108,7 @@ function Bootcamps() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -219,7 +219,7 @@ function Bootcamps() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
@@ -320,7 +320,7 @@ function Bootcamps() {
             </div>
           </div>
         </div>
-        <div className="col-12 col-md-6 col-lg-3">
+        <div className="col-12 col-md-6 col-lg-3 py-2">
           <div className="card course-card">
             <div
               style={{
