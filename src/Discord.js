@@ -14,8 +14,8 @@ function Discord() {
             placeItems: "center",
           }}
         >
-          <img className="art1" src="shape-light-coral.svg" />
-          <img src="shape-coral.svg" className="art2" />
+          <img className="art1 img-fluid" src="shape-light-coral.svg" />
+          <img src="shape-coral.svg" className="art2 img-fluid" />
           <h2 style={{ fontWeight: "600" }}>Join our Discord Chat</h2>
           <p
             style={{
@@ -36,7 +36,7 @@ function Discord() {
             Enter Chat
           </button>
           <br />
-          <img src="peep-crowd.svg" />
+          <img src="peep-crowd.svg" className="img-fluid" />
         </div>
       </div>
     </div>
