@@ -102,8 +102,8 @@
 .bootcamp-card4-shape1 {
   position: absolute;
   width: 52%;
-  left: 0;
-  top: 0;
+  left: 50%;
+  top: 50%;
   transform: translate3d(-50%, -50%, 52px) rotate(0deg) scale(var(--hs))
     scaleY(0.73);
   opacity: 0.2;
